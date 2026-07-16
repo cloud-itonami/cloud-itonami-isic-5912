@@ -1,0 +1,12 @@
+[{:itonami.blueprint/id "cloud-itonami-isic-5912"
+  :itonami.blueprint/name "Motion picture, video and television programme post-production activities"
+  :itonami.blueprint/isic-rev4 "5912"
+  :itonami.blueprint/domain :services/motion-picture-post-production
+  :itonami.blueprint/license "AGPL-3.0-or-later"
+  :itonami.blueprint/social-impact [:creative-integrity :content-safety :timely-delivery :accurate-record-keeping]
+  :itonami.blueprint/governor :postprod-governor
+  :itonami.blueprint/robotics false
+  :itonami.blueprint/required-technologies [:identity :forms :dmn :bpmn :audit-ledger]
+  :itonami.blueprint/status :public-oss
+  :itonami.blueprint/maturity :implemented
+  :db/id -1}]
